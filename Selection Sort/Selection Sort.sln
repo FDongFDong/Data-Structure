@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Selection Sort", "Selection Sort\Selection Sort.vcxproj", "{F2F3BA86-9917-457B-AC2E-3A7E74EF4BBE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD5F37C5-AD63-4042-BC45-689A42627843}"
+	ProjectSection(SolutionItems) = preProject
+		Selection Sort.txt = Selection Sort.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
